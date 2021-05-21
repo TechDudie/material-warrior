@@ -1,3 +1,4 @@
+// CHEATER
 
 var Player = {
 
@@ -5,11 +6,11 @@ var Player = {
 		
 		"x": 55, //55
 		"y": 15, //15
-		"hp": 10, //10
-		"maxhp": 10, //10
+		"hp": 20, //10
+		"maxhp": 20, //10
 		"xp": 0, //0
-		"gold": 0, //0
-		"regenTimeout": 3000, //3000
+		"gold": 1000, //0
+		"regenTimeout": 1000, //3000
 		"regenHp": 1, //1
 		"spawn2": false,
 		
@@ -32,12 +33,12 @@ var Player = {
 			"head": ["none"], //["none"]
 			"body": ["none"], //["none"]
 			"item": {
-				"apple": 0, //0
+				"apple": 50, //0
 				"heart": 0, //0
 				"s_heart": 0, //0
 				"pizza": 0, //0
 				"dragon-corpse": 0, //0
-				"gun": 0, //0
+				"gun": 1, //0
 				"cookie": 0, //0
 			},
 			"thing": {

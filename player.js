@@ -1,21 +1,23 @@
 // CHEATER
 
+// I love to cheat with code
+
 var Player = {
 
 	"save": {
 		
 		"x": 55, //55
 		"y": 15, //15
-		"hp": 100, //10
-		"maxhp": 100, //10
-		"xp": 10, //0
-		"gold": 1000, //0
-		"regenTimeout": 1000, //3000
-		"regenHp": 1, //1
+		"hp": 1000000000000000, //10
+		"maxhp": 1000000000000000, //10
+		"xp": 1000000000000000, //0
+		"gold": 100000, //0
+		"regenTimeout": 1, //3000
+		"regenHp": 100, //1
 		"spawn2": false,
 		
-		"punchesLeft": 10, //10
-		"meditateHpLeft": 500, //500
+		"punchesLeft": 10000, //10
+		"meditateHpLeft": 10000, //500
 		"hasReadLiterature3": false, //false
 		"tookPizzas": false, //false
 		"hasLoan": false, //false
@@ -38,7 +40,7 @@ var Player = {
 				"s_heart": 0, //0
 				"pizza": 0, //0
 				"dragon-corpse": 0, //0
-				"gun": 1, //0
+				"gun": 2, //0
 				"cookie": 0, //0
 			},
 			"thing": {
